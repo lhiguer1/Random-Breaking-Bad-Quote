@@ -17,7 +17,7 @@ export default function Home() {
 
   return (
     <main className="flex-grow flex flex-col justify-center items-center m-2">
-      <h1 className="text-5xl font-bold text-center">Breaking Bad Random Quote</h1>
+      <h1 className="text-5xl font-bold text-center">Breaking Bad Quotes</h1>
       <p className="py-6 text-center">{quote?.quote}</p>
       <div>
         <button onClick={clickHandler} className="btn btn-primary">
