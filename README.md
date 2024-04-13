@@ -1,6 +1,12 @@
 # Random Breaking Bad Quotes
 
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app). Created on a bored afternoon, I will probably never touch it again.
+This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+
+Created on a bored afternoon. Main purpose experiment with AWS Amplify.
+
+## Tech Stack
+
+React, Next.js, TailwindCSS, DaisyUI, AWS Amplify
 
 ## Acknowledgements
 
