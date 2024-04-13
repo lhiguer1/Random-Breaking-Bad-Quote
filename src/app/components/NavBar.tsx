@@ -10,9 +10,9 @@ function NavBar({}: Props) {
         <a className="btn btn-ghost text-xl">Breaking Bad Quotes</a>
       </div>
       <div className="flex-none">
-        <button className="btn btn-square btn-ghost">
+        <a className="btn btn-square btn-ghost" href="https://github.com/lhiguer1/Random-Breaking-Bad-Quote">
           <FaGithub size={"2rem"} />
-        </button>
+        </a>
       </div>
     </nav>
   );
